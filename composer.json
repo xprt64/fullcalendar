@@ -1,0 +1,12 @@
+{
+    "name": "xprt64/fullcalendar",
+    "description": "fullcalendar jquery plugin",
+    "authors": [
+        {
+            "name": "Constantin Galbenu",
+            "email": "xprt64@gmail.com"
+        }
+    ],
+	"minimum-stability": "dev",
+	"prefer-stable" : true
+}
